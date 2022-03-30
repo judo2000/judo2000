@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I am a 6th degree black belt in judo and am the 1998 World Champion and 2000 Paralympic Champion.
 - :mailbox:How to reach me:    
   Email: judo2000@comcast.net   
-  Portfolio: https://judo2000.github.io/portfolio/   
+  Portfolio: http://stephenscottmoore.com/      
   [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-moore-ply-mcis-b94bab18/)   
   
 ### :hammer_and_wrench: Languages and Tools 
