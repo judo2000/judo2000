@@ -3,7 +3,7 @@
 ![img/header.png]
 
 ### Hi, I'm Stephen "Scott" Moore
-- 🌱 I’m currently enrolled in a Full Stack Coding Bootcamp at the University of Denver.
+- 🌱 I recently completed a Full Stack Coding Bootcamp at the University of Denver.  Now I'm building as much as I can to gain more experience.
 - 🔭 I'm always open to collaborate on projects to help me become a better developer
 - ⚡ Fun fact: I am a 6th degree black belt in judo and am the 1998 World Champion and 2000 Paralympic Champion.
 - :mailbox:How to reach me:    
