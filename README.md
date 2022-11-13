@@ -1,6 +1,5 @@
 [![Header](https://github.com/judo2000/judo2000/blob/main/img/header.png "Header")
 
-![img/header.png]
 
 ### Hi, I'm Stephen "Scott" Moore
 - 🌱 I recently completed a Full Stack Coding Bootcamp at the University of Denver.  Now I'm building as much as I can to gain more experience.
