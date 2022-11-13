@@ -1,4 +1,4 @@
-[![Header](https://github.com/judo2000/judo2000/blob/main/img/header.png "Header")
+![Header](https://github.com/judo2000/judo2000/blob/main/img/header.png "Header")
 
 
 ### Hi, I'm Stephen "Scott" Moore
